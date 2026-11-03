@@ -1,0 +1,6402 @@
+{
+  "songs": [
+    {
+      "title": "星光下的梦想·主旋律＋伴奏·原调",
+      "bpm": 63,
+      "stepGapMs": 0,
+      "notes": [
+        {
+          "note": "Eb5",
+          "startBeat": 0.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 0.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 0.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 0.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 1.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 1.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 1.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 1.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D5",
+          "startBeat": 2.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 2.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 2.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 2.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 3.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 3.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 3.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 4.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 4.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 4.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 4.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 5.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 5.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 5.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 5.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 6.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 6.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 6.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 7.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 7.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 8.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 8.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 8.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 8.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 9.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 9.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 9.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 9.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 10.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 10.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 10.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 10.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 11.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 11.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 11.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 12.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 12.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 12.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 12.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 13.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 13.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 13.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 13.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 14.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 14.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 14.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 15.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "B3",
+          "startBeat": 15.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 15.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 16.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 16.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 16.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 16.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 17.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 17.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 17.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 17.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D5",
+          "startBeat": 18.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 18.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 18.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 18.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 19.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 19.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 19.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 20.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 20.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 20.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 20.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 21.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 21.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 21.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 21.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 22.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 22.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 22.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 23.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 23.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 24.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 24.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 24.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 24.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 25.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 25.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 25.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 25.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 26.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 26.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 26.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 26.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 27.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 27.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 27.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 28.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 28.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 28.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 28.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 29.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 29.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 29.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 29.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C5",
+          "startBeat": 30.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 30.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 30.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 31.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 31.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "E5",
+          "startBeat": 32.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 32.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 32.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C6",
+          "startBeat": 33.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "E3",
+          "startBeat": 33.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 33.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 33.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 34.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 34.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 34.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab5",
+          "startBeat": 34.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab5",
+          "startBeat": 35.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 35.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 35.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 36.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 36.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 36.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 36.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 37.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 37.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C6",
+          "startBeat": 37.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 37.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 38.0,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 38.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 38.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 39.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 39.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 39.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G5",
+          "startBeat": 40.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 40.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 40.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 40.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F5",
+          "startBeat": 41.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 41.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 41.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 41.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F5",
+          "startBeat": 42.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 42.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 42.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 42.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 43.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 43.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 43.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 43.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 44.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 44.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 44.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 44.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 45.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 45.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 45.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 45.75,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 46.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 46.5,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D3",
+          "startBeat": 46.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "B3",
+          "startBeat": 47.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 47.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 48.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 48.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 48.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 48.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 49.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 49.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 49.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 49.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D5",
+          "startBeat": 50.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 50.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 50.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 50.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 51.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 51.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 51.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 52.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 52.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 52.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 52.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 53.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 53.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 53.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 53.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 54.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 54.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 54.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 55.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 55.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 56.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 56.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 56.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 56.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 57.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 57.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 57.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 57.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 58.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 58.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 58.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 58.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 59.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 59.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 59.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 60.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 60.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 60.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 60.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 61.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 61.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 61.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 61.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C5",
+          "startBeat": 62.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 62.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 62.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 63.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 63.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 64.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 64.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 64.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 64.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 65.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 65.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 65.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 65.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 66.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 66.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 66.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 66.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 67.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 67.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 67.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 68.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 68.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 68.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 68.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 69.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 69.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 69.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 69.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C5",
+          "startBeat": 70.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 70.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 70.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 71.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 71.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 72.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 72.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 72.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 72.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 73.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 73.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 73.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 73.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D5",
+          "startBeat": 74.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 74.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 74.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 74.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 75.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 75.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 75.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 76.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 76.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 76.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 76.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 77.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 77.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 77.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 77.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 78.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 78.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 78.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 79.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 79.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F2",
+          "startBeat": 80.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 80.25,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 80.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 80.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C5",
+          "startBeat": 81.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 81.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 81.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 81.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 82.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 82.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 82.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 82.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 83.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 83.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 83.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 84.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 84.25,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 84.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 84.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D5",
+          "startBeat": 85.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 85.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 85.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 85.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C5",
+          "startBeat": 86.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 86.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 86.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 87.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 87.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "E5",
+          "startBeat": 88.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 88.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 88.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C6",
+          "startBeat": 89.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "E3",
+          "startBeat": 89.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 89.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 89.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 90.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 90.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 90.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab5",
+          "startBeat": 90.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab5",
+          "startBeat": 91.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 91.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 91.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 92.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 92.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 92.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 92.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb5",
+          "startBeat": 93.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 93.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C6",
+          "startBeat": 93.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 93.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 94.0,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 94.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 94.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 95.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 95.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 95.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G5",
+          "startBeat": 96.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 96.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 96.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 96.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F5",
+          "startBeat": 97.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 97.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 97.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 97.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F5",
+          "startBeat": 98.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 98.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 98.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 98.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 99.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 99.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 99.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 99.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 100.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 100.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 100.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 100.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F5",
+          "startBeat": 101.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 101.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 101.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 101.75,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 102.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 102.5,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D3",
+          "startBeat": 102.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "B3",
+          "startBeat": 103.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 103.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 104.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 104.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 104.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 104.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 105.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 105.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 105.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 105.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D5",
+          "startBeat": 106.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 106.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 106.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 106.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 107.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 107.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 107.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 108.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 108.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 108.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 108.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 109.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 109.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 109.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 109.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 110.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 110.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 110.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 111.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 111.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 112.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 112.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 112.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 112.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 113.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 113.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 113.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 113.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 114.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 114.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 114.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 114.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 115.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 115.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 115.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 116.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 116.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 116.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 116.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 117.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 117.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 117.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 117.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C5",
+          "startBeat": 118.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 118.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 118.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 119.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 119.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 120.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 120.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 120.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 120.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 121.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F3",
+          "startBeat": 121.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 121.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 121.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 122.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 122.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 122.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 122.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 123.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 123.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 123.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb5",
+          "startBeat": 124.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 124.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 124.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G5",
+          "startBeat": 125.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 125.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb3",
+          "startBeat": 125.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D5",
+          "startBeat": 126.0,
+          "beats": 3.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 126.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 126.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "B3",
+          "startBeat": 127.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 127.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 128.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 128.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 129.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "B3",
+          "startBeat": 129.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D3",
+          "startBeat": 129.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 130.0,
+          "beats": 4.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 130.0,
+          "beats": 4.0,
+          "velocity": 64,
+          "part": "伴奏"
+        }
+      ]
+    },
+    {
+      "title": "星光下的梦想·主旋律＋伴奏·低八度",
+      "bpm": 63,
+      "stepGapMs": 0,
+      "notes": [
+        {
+          "note": "Eb4",
+          "startBeat": 0.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 0.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 0.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 0.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 1.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 1.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 1.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 1.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D4",
+          "startBeat": 2.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 2.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 2.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 2.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 3.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 3.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 3.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 4.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 4.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 4.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 4.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 5.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 5.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 5.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 5.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 6.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 6.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 6.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 7.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 7.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 8.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 8.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 8.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 8.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 9.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 9.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 9.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 9.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 10.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 10.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 10.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 10.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 11.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 11.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 11.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 12.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 12.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 12.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 12.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 13.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 13.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 13.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 13.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 14.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 14.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 14.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 15.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "B2",
+          "startBeat": 15.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 15.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 16.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 16.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 16.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 16.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 17.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 17.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 17.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 17.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D4",
+          "startBeat": 18.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 18.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 18.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 18.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 19.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 19.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 19.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 20.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 20.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 20.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 20.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 21.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 21.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 21.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 21.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 22.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 22.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 22.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 23.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 23.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 24.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 24.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 24.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 24.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 25.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 25.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 25.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 25.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 26.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 26.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 26.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 26.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 27.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 27.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 27.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 28.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 28.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 28.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 28.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 29.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 29.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 29.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 29.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 30.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 30.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 30.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 31.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 31.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "E4",
+          "startBeat": 32.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 32.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 32.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 33.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "E2",
+          "startBeat": 33.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 33.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 33.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 34.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 34.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 34.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 34.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 35.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 35.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 35.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 36.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 36.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 36.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 36.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 37.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 37.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 37.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 37.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 38.0,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 38.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 38.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 39.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 39.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 39.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 40.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 40.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 40.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 40.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F4",
+          "startBeat": 41.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 41.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 41.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 41.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F4",
+          "startBeat": 42.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 42.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 42.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 42.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 43.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 43.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 43.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 43.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 44.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 44.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 44.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 44.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 45.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 45.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 45.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 45.75,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 46.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 46.5,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D2",
+          "startBeat": 46.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "B2",
+          "startBeat": 47.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 47.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 48.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 48.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 48.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 48.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 49.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 49.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 49.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 49.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D4",
+          "startBeat": 50.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 50.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 50.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 50.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 51.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 51.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 51.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 52.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 52.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 52.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 52.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 53.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 53.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 53.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 53.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 54.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 54.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 54.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 55.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 55.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 56.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 56.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 56.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 56.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 57.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 57.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 57.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 57.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 58.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 58.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 58.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 58.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 59.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 59.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 59.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 60.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 60.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 60.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 60.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 61.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 61.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 61.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 61.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 62.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 62.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 62.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 63.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 63.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 64.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 64.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 64.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 64.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 65.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 65.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 65.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 65.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 66.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 66.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 66.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 66.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 67.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 67.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 67.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 68.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 68.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 68.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 68.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 69.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 69.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 69.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 69.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 70.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 70.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 70.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 71.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 71.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 72.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 72.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 72.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 72.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 73.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 73.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 73.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 73.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D4",
+          "startBeat": 74.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 74.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 74.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 74.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 75.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 75.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 75.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 76.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 76.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 76.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 76.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 77.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 77.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 77.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 77.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 78.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 78.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 78.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 79.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 79.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F1",
+          "startBeat": 80.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 80.25,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 80.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 80.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 81.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 81.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 81.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 81.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 82.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 82.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 82.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 82.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 83.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 83.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 83.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 84.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 84.25,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 84.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 84.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D4",
+          "startBeat": 85.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 85.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 85.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 85.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 86.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 86.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 86.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 87.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 87.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "E4",
+          "startBeat": 88.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 88.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 88.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 89.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "E2",
+          "startBeat": 89.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 89.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 89.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 90.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 90.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 90.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 90.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab4",
+          "startBeat": 91.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 91.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 91.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 92.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 92.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 92.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 92.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb4",
+          "startBeat": 93.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 93.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C5",
+          "startBeat": 93.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 93.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 94.0,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 94.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 94.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 95.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 95.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 95.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G4",
+          "startBeat": 96.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 96.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 96.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 96.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F4",
+          "startBeat": 97.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 97.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 97.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 97.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F4",
+          "startBeat": 98.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 98.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 98.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 98.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 99.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 99.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 99.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 99.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 100.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 100.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 100.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 100.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "F4",
+          "startBeat": 101.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 101.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 101.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 101.75,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 102.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 102.5,
+          "beats": 1.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D2",
+          "startBeat": 102.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "B2",
+          "startBeat": 103.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 103.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 104.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 104.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 104.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 104.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 105.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 105.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 105.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 105.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "D4",
+          "startBeat": 106.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb1",
+          "startBeat": 106.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 106.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 106.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 107.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb2",
+          "startBeat": 107.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 107.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 108.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 108.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 108.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 108.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 109.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 109.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 109.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 109.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Bb3",
+          "startBeat": 110.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 110.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 110.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 111.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 111.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 112.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 112.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 112.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 112.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 113.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 113.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 113.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 113.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 114.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 114.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 114.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 114.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 115.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 115.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 115.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 116.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 116.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 116.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 116.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 117.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 117.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 117.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 117.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C4",
+          "startBeat": 118.0,
+          "beats": 2.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 118.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 118.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C3",
+          "startBeat": 119.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 119.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 120.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F1",
+          "startBeat": 120.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 120.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 120.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 121.0,
+          "beats": 0.75,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "F2",
+          "startBeat": 121.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C2",
+          "startBeat": 121.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Ab3",
+          "startBeat": 121.75,
+          "beats": 0.25,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G3",
+          "startBeat": 122.0,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 122.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 122.5,
+          "beats": 0.5,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G2",
+          "startBeat": 122.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 123.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C3",
+          "startBeat": 123.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G2",
+          "startBeat": 123.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb4",
+          "startBeat": 124.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab1",
+          "startBeat": 124.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 124.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G4",
+          "startBeat": 125.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "Ab2",
+          "startBeat": 125.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "Eb2",
+          "startBeat": 125.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D4",
+          "startBeat": 126.0,
+          "beats": 3.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "G1",
+          "startBeat": 126.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 126.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "B2",
+          "startBeat": 127.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 127.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G1",
+          "startBeat": 128.0,
+          "beats": 0.46875,
+          "velocity": 64,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 128.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "G3",
+          "startBeat": 129.0,
+          "beats": 1.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "B2",
+          "startBeat": 129.0,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "D2",
+          "startBeat": 129.5,
+          "beats": 0.46875,
+          "velocity": 55,
+          "part": "伴奏"
+        },
+        {
+          "note": "C4",
+          "startBeat": 130.0,
+          "beats": 4.0,
+          "velocity": 100,
+          "part": "主旋律"
+        },
+        {
+          "note": "C2",
+          "startBeat": 130.0,
+          "beats": 4.0,
+          "velocity": 64,
+          "part": "伴奏"
+        }
+      ]
+    }
+  ]
+}
