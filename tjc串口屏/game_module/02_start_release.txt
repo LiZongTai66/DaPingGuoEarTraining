@@ -1,0 +1,70 @@
+// m1: touch release event (start / restart)
+tm0.en=0
+if(va0.val>0)
+{
+  pos.val=va0.val-1
+  pos.val=pos.val*10
+  pos.val=pos.val+28
+  if(pos.val>180)
+  {
+    pos.val=180
+  }
+  xpic va5.val,pos.val,50,14,va5.val,pos.val,18
+}
+if(va1.val>0)
+{
+  pos.val=va1.val-1
+  pos.val=pos.val*10
+  pos.val=pos.val+28
+  if(pos.val>180)
+  {
+    pos.val=180
+  }
+  xpic va6.val,pos.val,50,14,va6.val,pos.val,18
+}
+if(va2.val>0)
+{
+  pos.val=va2.val-1
+  pos.val=pos.val*10
+  pos.val=pos.val+28
+  if(pos.val>180)
+  {
+    pos.val=180
+  }
+  xpic va7.val,pos.val,50,14,va7.val,pos.val,18
+}
+if(va3.val>0)
+{
+  pos.val=va3.val-1
+  pos.val=pos.val*10
+  pos.val=pos.val+28
+  if(pos.val>180)
+  {
+    pos.val=180
+  }
+  xpic va8.val,pos.val,50,14,va8.val,pos.val,18
+}
+va0.val=0
+va1.val=0
+va2.val=0
+va3.val=0
+va4.val=0
+va5.val=0
+va6.val=0
+va7.val=0
+va8.val=0
+va9.val=0
+va10.val=0
+va11.val=0
+va12.val=0
+va13.val=0
+va14.val=0
+rx.val=-1
+snap.val=0
+miss.val=0
+n0.val=0
+n1.val=0
+va9.val=1
+tm0.tim=50
+printh C1
+tm0.en=1

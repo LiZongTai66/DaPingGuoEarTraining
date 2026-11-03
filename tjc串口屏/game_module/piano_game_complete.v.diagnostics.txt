@@ -1,0 +1,45 @@
+piano_game_complete.v:330:6: warning: output port 'adc_a3' is explicitly connected to nothing [-Wempty-output-connection]
+    .adc_a3()
+     ^~~~~~
+piano_game_complete.v:493:46: warning: arithmetic between operands of different types ('bit[7:0]' and 'logic[4:0]') [-Warith-op-mismatch]
+                    tjc_command_char = 8'h30 +
+                                       ~~~~~ ^
+piano_game_complete.v:861:5: warning: implicit conversion changes signedness from 'logic[15:0]' to 'logic signed[15:0]' [-Wsign-conversion]
+    (mix_sum > 28'sd30000)
+    ^~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1360:17: warning: 'case' missing 'default' label [-Wcase-default]
+                case (channel)
+                ^~~~
+piano_game_complete.v:1404:17: warning: comparison of differently signed types ('reg[1:0]' and 'integer') [-Wsign-compare]
+    if (channel == CHANNEL_COUNT - 1)
+        ~~~~~~~ ^~ ~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1648:5: warning: implicit conversion changes signedness from 'logic[15:0]' to 'logic signed[15:0]' [-Wsign-conversion]
+    {{7{sine1[8]}}, sine1};
+    ^~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1650:5: warning: implicit conversion changes signedness from 'logic[15:0]' to 'logic signed[15:0]' [-Wsign-conversion]
+    {{7{sine2[8]}}, sine2};
+    ^~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1652:5: warning: implicit conversion changes signedness from 'logic[15:0]' to 'logic signed[15:0]' [-Wsign-conversion]
+    {{7{harmonic2[8]}}, harmonic2};
+    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1654:5: warning: implicit conversion changes signedness from 'logic[15:0]' to 'logic signed[15:0]' [-Wsign-conversion]
+    {{7{harmonic3[8]}}, harmonic3};
+    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1661:27: warning: arithmetic between operands of different types ('logic signed[15:0]' and 'logic signed[16:0]') [-Warith-op-mismatch]
+    $signed(harmonic_mix) *
+    ~~~~~~~~~~~~~~~~~~~~~ ^
+piano_game_complete.v:1664:5: warning: implicit conversion truncates from 33 to 16 bits [-Wwidth-trunc]
+    harmonic_product >>> 15;
+    ^~~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1671:5: warning: implicit conversion changes signedness from 'logic[15:0]' to 'logic signed[15:0]' [-Wsign-conversion]
+    {{7{harmonic4[8]}}, harmonic4};
+    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1683:28: warning: arithmetic between operands of different types ('logic signed[15:0]' and 'logic signed[16:0]') [-Warith-op-mismatch]
+    $signed(selected_wave) *
+    ~~~~~~~~~~~~~~~~~~~~~~ ^
+piano_game_complete.v:1687:20: warning: implicit conversion changes signedness from 'logic[23:0]' to 'logic signed[23:0]' [-Wsign-conversion]
+assign audio_out = audio_scaled[23:0];
+                 ~ ^~~~~~~~~~~~~~~~~~
+piano_game_complete.v:1846:27: warning: comparison of differently signed types ('reg[12:0]' and 'integer') [-Wsign-compare]
+            if (clk_count == CLKS_PER_BIT - 1) begin
+                ~~~~~~~~~ ^~ ~~~~~~~~~~~~~~~~

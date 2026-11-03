@@ -1,0 +1,5 @@
+// m0: touch release event (back)
+tm0.en=0
+va9.val=0
+printh A0
+page main

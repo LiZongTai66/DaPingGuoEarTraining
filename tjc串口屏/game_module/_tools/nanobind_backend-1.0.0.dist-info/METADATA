@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: nanobind-backend
+Version: 1.0.0
+Summary: Compiled nanobind backend for extensions built in split mode
+Author-Email: Wenzel Jakob <wenzel.jakob@epfl.ch>
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Project-URL: Homepage, https://github.com/wjakob/nanobind
+Project-URL: Documentation, https://nanobind.readthedocs.io/en/latest/split_mode.html
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# nanobind-backend
+
+This package contains the backend part of the
+[nanobind](https://github.com/wjakob/nanobind) C++ binding library. It serves
+extension modules built using nanobind's *split mode*, in which the extension
+delegates to an externally hosted backend instead of shipping its own.
+
+End users receive this package as a transitive dependency of such an extension
+and do not interact with it directly. There is no user-facing API. Please see
+the [split mode
+documentation](https://nanobind.readthedocs.io/en/latest/split_mode.html) for
+more details. This package only provides binary wheels; its source code is part
+of the nanobind parent project.

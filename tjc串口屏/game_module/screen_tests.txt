@@ -1,0 +1,7 @@
+PASS perfect: score=4200, combo=42, miss=0, state=3
+PASS good: score=2520, combo=42, miss=0, state=3
+PASS miss: score=0, combo=0, miss=42, state=3
+PASS unplugged: score=0, combo=0, miss=0, state=4
+PASS restart mid-animation and back-to-main cleanup
+PASS 50ms timer, 3s countdown, 42 target commands, four-slot lifetime, nonoverlapping 300ms windows, final stop
+PASS screen events require only t0/n0/n1 display controls, no additional text controls

@@ -1,0 +1,9 @@
+Complete source Icarus compilation: PASS
+error: Failed to open 'system.vpi' because:
+     : dynamic linking not enabled
+error: Failed to open 'system.vpi' because:
+     : dynamic linking not enabled
+PASS: 73 judgement checks, 17 coherent telemetry frames
+/src.v:368: $finish called at 995500000 (1ps)
+PASS integration: 5 real UART frames (2 play / 3 game), no interleaving
+/src.v:2154: $finish called at 26433055000 (1ps)

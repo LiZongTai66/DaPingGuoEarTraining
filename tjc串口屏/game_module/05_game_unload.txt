@@ -1,0 +1,4 @@
+// game: page unload event
+tm0.en=0
+va9.val=0
+printh A0

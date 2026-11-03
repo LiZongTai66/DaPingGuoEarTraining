@@ -1,0 +1,427 @@
+{
+  "timer_ms": 50,
+  "beat_ms": 400,
+  "end_tick": 464,
+  "notes": [
+    {
+      "index": 0,
+      "note": 0,
+      "duration": 1,
+      "spawn": 60,
+      "slot": 0,
+      "target": 76,
+      "window": 73,
+      "clear": 79
+    },
+    {
+      "index": 1,
+      "note": 0,
+      "duration": 1,
+      "spawn": 68,
+      "slot": 1,
+      "target": 84,
+      "window": 81,
+      "clear": 87
+    },
+    {
+      "index": 2,
+      "note": 4,
+      "duration": 1,
+      "spawn": 76,
+      "slot": 2,
+      "target": 92,
+      "window": 89,
+      "clear": 95
+    },
+    {
+      "index": 3,
+      "note": 4,
+      "duration": 1,
+      "spawn": 84,
+      "slot": 3,
+      "target": 100,
+      "window": 97,
+      "clear": 103
+    },
+    {
+      "index": 4,
+      "note": 5,
+      "duration": 1,
+      "spawn": 92,
+      "slot": 0,
+      "target": 108,
+      "window": 105,
+      "clear": 111
+    },
+    {
+      "index": 5,
+      "note": 5,
+      "duration": 1,
+      "spawn": 100,
+      "slot": 1,
+      "target": 116,
+      "window": 113,
+      "clear": 119
+    },
+    {
+      "index": 6,
+      "note": 4,
+      "duration": 2,
+      "spawn": 108,
+      "slot": 2,
+      "target": 124,
+      "window": 121,
+      "clear": 127
+    },
+    {
+      "index": 7,
+      "note": 3,
+      "duration": 1,
+      "spawn": 124,
+      "slot": 3,
+      "target": 140,
+      "window": 137,
+      "clear": 143
+    },
+    {
+      "index": 8,
+      "note": 3,
+      "duration": 1,
+      "spawn": 132,
+      "slot": 0,
+      "target": 148,
+      "window": 145,
+      "clear": 151
+    },
+    {
+      "index": 9,
+      "note": 2,
+      "duration": 1,
+      "spawn": 140,
+      "slot": 1,
+      "target": 156,
+      "window": 153,
+      "clear": 159
+    },
+    {
+      "index": 10,
+      "note": 2,
+      "duration": 1,
+      "spawn": 148,
+      "slot": 2,
+      "target": 164,
+      "window": 161,
+      "clear": 167
+    },
+    {
+      "index": 11,
+      "note": 1,
+      "duration": 1,
+      "spawn": 156,
+      "slot": 3,
+      "target": 172,
+      "window": 169,
+      "clear": 175
+    },
+    {
+      "index": 12,
+      "note": 1,
+      "duration": 1,
+      "spawn": 164,
+      "slot": 0,
+      "target": 180,
+      "window": 177,
+      "clear": 183
+    },
+    {
+      "index": 13,
+      "note": 0,
+      "duration": 2,
+      "spawn": 172,
+      "slot": 1,
+      "target": 188,
+      "window": 185,
+      "clear": 191
+    },
+    {
+      "index": 14,
+      "note": 4,
+      "duration": 1,
+      "spawn": 188,
+      "slot": 2,
+      "target": 204,
+      "window": 201,
+      "clear": 207
+    },
+    {
+      "index": 15,
+      "note": 4,
+      "duration": 1,
+      "spawn": 196,
+      "slot": 3,
+      "target": 212,
+      "window": 209,
+      "clear": 215
+    },
+    {
+      "index": 16,
+      "note": 3,
+      "duration": 1,
+      "spawn": 204,
+      "slot": 0,
+      "target": 220,
+      "window": 217,
+      "clear": 223
+    },
+    {
+      "index": 17,
+      "note": 3,
+      "duration": 1,
+      "spawn": 212,
+      "slot": 1,
+      "target": 228,
+      "window": 225,
+      "clear": 231
+    },
+    {
+      "index": 18,
+      "note": 2,
+      "duration": 1,
+      "spawn": 220,
+      "slot": 2,
+      "target": 236,
+      "window": 233,
+      "clear": 239
+    },
+    {
+      "index": 19,
+      "note": 2,
+      "duration": 1,
+      "spawn": 228,
+      "slot": 3,
+      "target": 244,
+      "window": 241,
+      "clear": 247
+    },
+    {
+      "index": 20,
+      "note": 1,
+      "duration": 2,
+      "spawn": 236,
+      "slot": 0,
+      "target": 252,
+      "window": 249,
+      "clear": 255
+    },
+    {
+      "index": 21,
+      "note": 4,
+      "duration": 1,
+      "spawn": 252,
+      "slot": 1,
+      "target": 268,
+      "window": 265,
+      "clear": 271
+    },
+    {
+      "index": 22,
+      "note": 4,
+      "duration": 1,
+      "spawn": 260,
+      "slot": 2,
+      "target": 276,
+      "window": 273,
+      "clear": 279
+    },
+    {
+      "index": 23,
+      "note": 3,
+      "duration": 1,
+      "spawn": 268,
+      "slot": 3,
+      "target": 284,
+      "window": 281,
+      "clear": 287
+    },
+    {
+      "index": 24,
+      "note": 3,
+      "duration": 1,
+      "spawn": 276,
+      "slot": 0,
+      "target": 292,
+      "window": 289,
+      "clear": 295
+    },
+    {
+      "index": 25,
+      "note": 2,
+      "duration": 1,
+      "spawn": 284,
+      "slot": 1,
+      "target": 300,
+      "window": 297,
+      "clear": 303
+    },
+    {
+      "index": 26,
+      "note": 2,
+      "duration": 1,
+      "spawn": 292,
+      "slot": 2,
+      "target": 308,
+      "window": 305,
+      "clear": 311
+    },
+    {
+      "index": 27,
+      "note": 1,
+      "duration": 2,
+      "spawn": 300,
+      "slot": 3,
+      "target": 316,
+      "window": 313,
+      "clear": 319
+    },
+    {
+      "index": 28,
+      "note": 0,
+      "duration": 1,
+      "spawn": 316,
+      "slot": 0,
+      "target": 332,
+      "window": 329,
+      "clear": 335
+    },
+    {
+      "index": 29,
+      "note": 0,
+      "duration": 1,
+      "spawn": 324,
+      "slot": 1,
+      "target": 340,
+      "window": 337,
+      "clear": 343
+    },
+    {
+      "index": 30,
+      "note": 4,
+      "duration": 1,
+      "spawn": 332,
+      "slot": 2,
+      "target": 348,
+      "window": 345,
+      "clear": 351
+    },
+    {
+      "index": 31,
+      "note": 4,
+      "duration": 1,
+      "spawn": 340,
+      "slot": 3,
+      "target": 356,
+      "window": 353,
+      "clear": 359
+    },
+    {
+      "index": 32,
+      "note": 5,
+      "duration": 1,
+      "spawn": 348,
+      "slot": 0,
+      "target": 364,
+      "window": 361,
+      "clear": 367
+    },
+    {
+      "index": 33,
+      "note": 5,
+      "duration": 1,
+      "spawn": 356,
+      "slot": 1,
+      "target": 372,
+      "window": 369,
+      "clear": 375
+    },
+    {
+      "index": 34,
+      "note": 4,
+      "duration": 2,
+      "spawn": 364,
+      "slot": 2,
+      "target": 380,
+      "window": 377,
+      "clear": 383
+    },
+    {
+      "index": 35,
+      "note": 3,
+      "duration": 1,
+      "spawn": 380,
+      "slot": 3,
+      "target": 396,
+      "window": 393,
+      "clear": 399
+    },
+    {
+      "index": 36,
+      "note": 3,
+      "duration": 1,
+      "spawn": 388,
+      "slot": 0,
+      "target": 404,
+      "window": 401,
+      "clear": 407
+    },
+    {
+      "index": 37,
+      "note": 2,
+      "duration": 1,
+      "spawn": 396,
+      "slot": 1,
+      "target": 412,
+      "window": 409,
+      "clear": 415
+    },
+    {
+      "index": 38,
+      "note": 2,
+      "duration": 1,
+      "spawn": 404,
+      "slot": 2,
+      "target": 420,
+      "window": 417,
+      "clear": 423
+    },
+    {
+      "index": 39,
+      "note": 1,
+      "duration": 1,
+      "spawn": 412,
+      "slot": 3,
+      "target": 428,
+      "window": 425,
+      "clear": 431
+    },
+    {
+      "index": 40,
+      "note": 1,
+      "duration": 1,
+      "spawn": 420,
+      "slot": 0,
+      "target": 436,
+      "window": 433,
+      "clear": 439
+    },
+    {
+      "index": 41,
+      "note": 0,
+      "duration": 2,
+      "spawn": 428,
+      "slot": 1,
+      "target": 444,
+      "window": 441,
+      "clear": 447
+    }
+  ]
+}
